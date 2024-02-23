@@ -9,7 +9,7 @@ The creation of the Migrants' Death Project involved utilizing data sourced from
 
 The Python programming language was employed to create an interactive DASH, a web application framework. This framework enhances the visualization of data, making it effortless to comprehend and extract valuable insights.
 
-## PERFORMED TASK
+## PERFORMED TASKS
 
 Data Extraction, Data Cleaning, and Visualization using Python-Dash
 
