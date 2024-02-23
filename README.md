@@ -11,8 +11,9 @@ The Python programming language was employed to create an interactive DASH, a we
 
 ## PERFORMED TASK
 
-Data Extraction, Data Cleaning,
+Data Extraction, Data Cleaning, and Visualization using Python-Dash
+
+
 <img width="732" alt="Screenshot 2024-02-22 at 9 18 12 PM" src="https://github.com/Daaduam12/Migrants_Death/assets/160546656/2859a411-ea6b-4bf3-b85f-d1f9e0f73766">
- and Visualization using Python-Dash
 
 
